@@ -7,10 +7,6 @@ Senior front-end technical expert, many years of experience in Web front-end dev
 - Web3js, Solidity
 - Node, Flutter, Java
 
-### Education
-- Dalian University of Technology Information and Communication Engineering Master (2015-2018)
-- Bachelor of Marine Technology, Dalian Ocean University (2011-2015)
-
 ### Experience
 - Web Developer 2017 - 2019 Roiland Group
   - Internet of Things vehicle management platform development
